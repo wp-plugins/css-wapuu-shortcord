@@ -1,7 +1,7 @@
 === css-wapuu-shortcode ===
 Contributors: mismith227
 Tags: csswapuu,wapuu,shortcode
-Requires at least: 1.0
+Requires at least: 1.0.1
 Tested up to: 1.0
 Stable tag: 1.0
 License: GPL v2 license or any later version.
@@ -12,10 +12,12 @@ It is a plug-in that embed wapuu drawn by CSS in the short code.
 It is a plug-in that embed wapuu drawn by CSS in the short code.
 
 [This Plugin published on GitHub.](https://github.com/mismith0227/csswapuu_shortcode)
+
+CSSWapuu
 [CSSWapuu.](https://github.com/mismith0227/csswapuu)
 
 【How to use】
-It embeds the [css_wapuu] to post or fixed page .
+It embeds the [css_wapuu] to post or page.
 
 * When you want to change the size
 scale=
