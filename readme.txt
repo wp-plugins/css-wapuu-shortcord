@@ -1,5 +1,5 @@
 === css-wapuu-shortcode ===
-Contributors: misumi
+Contributors: mismith227
 Tags: csswapuu,wapuu,shortcode
 Requires at least: 1.0
 Tested up to: 1.0
