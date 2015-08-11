@@ -1,9 +1,9 @@
 === css-wapuu-shortcode ===
 Contributors: mismith227,spicagraph
 Tags: csswapuu,wapuu,shortcode
-Requires at least: 1.0.6
+Requires at least: 1.0.7
 Tested up to: 1.0
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPL v2 license or any later version.
 
 It is a plug-in that embed wapuu drawn by CSS in the short code.
