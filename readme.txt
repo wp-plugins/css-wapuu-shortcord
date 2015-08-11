@@ -14,6 +14,7 @@ It is a plug-in that embed wapuu drawn by CSS in the short code.
 [This Plugin published on GitHub.](https://github.com/mismith0227/csswapuu_shortcode)
 
 CSSWapuu
+
 [CSSWapuu.](https://github.com/mismith0227/csswapuu)
 
 【How to use】
@@ -45,3 +46,9 @@ scale=
 
 = 1.0 =
 * First release
+
+== Special Thanks ==
+
+She gave me draw a cover image.
+
+[spicagraph](https://profiles.wordpress.org/spicagraph/)
