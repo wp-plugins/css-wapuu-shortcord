@@ -1,9 +1,9 @@
 === css-wapuu-shortcode ===
-Contributors: mismith227,spicagraph
+Contributors: mismith227,spicagraph,hnle
 Tags: csswapuu,wapuu,shortcode
-Requires at least: 1.0.7
+Requires at least: 1.0.8
 Tested up to: 1.0
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPL v2 license or any later version.
 
 It is a plug-in that embed wapuu drawn by CSS in the short code.
@@ -14,7 +14,6 @@ It is a plug-in that embed wapuu drawn by CSS in the short code.
 [This Plugin published on GitHub.](https://github.com/mismith0227/csswapuu_shortcode)
 
 CSSWapuu
-
 [CSSWapuu.](https://github.com/mismith0227/csswapuu)
 
 【How to use】
@@ -50,5 +49,7 @@ scale=
 == Special Thanks ==
 
 She gave me draw a cover image.
-
 [spicagraph](https://profiles.wordpress.org/spicagraph/)
+
+Contributors
+* [hnle](https://profiles.wordpress.org/hnle)
